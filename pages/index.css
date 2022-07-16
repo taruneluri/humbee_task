@@ -1,0 +1,25 @@
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: orangered;
+    background: white;
+    font-size: 2em; 
+}
+.park{
+    display: flex;
+    align-items: center;
+    height: 200px;
+}
+
+.division{
+    height: 150px;
+    background: orangered;
+    width: 260px;
+    float: left;
+    color: white;
+    margin-left: 10px;
+    margin-top: 10px;
+}
